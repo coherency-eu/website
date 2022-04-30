@@ -21,7 +21,7 @@ const Header: React.FC = () => {
           <Link to="/">Home</Link>
         </ChakraLink>
         <ChakraLink>
-          <Link to="/partners">Partners</Link>
+          <Link to="/automotive">Automotive</Link>
         </ChakraLink>
         <ChakraLink>
           <Link to="/iot">IoT</Link>
